@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A Junior Front-end developer from Taiwan</h3>
 
+- I have past internship experience as a User Experience Researcher.
+
 - 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **JiuTan**
