@@ -47,5 +47,5 @@
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   </span>
-# 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 ![](https://github-readme-stats.vercel.app/api?username=MaxliangTW&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
