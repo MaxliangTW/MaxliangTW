@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **88110max123@gmail.com**
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Connect with me </h2>
 <p>
     <a href="www.linkedin.com/in/sheng-chieh-liang-570a3621a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheng-chieh liang" height="30" width="40" /></a>
   <a href="https://instagram.com/maxst_note" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxst_note" height="30" width="40" /></a>
