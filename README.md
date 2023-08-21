@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Max Liang</h1>
 <h3 align="center">A Junior Front-end developer from Taiwan</h3>
 
-- I have past internship experience as a User Experience Researcher.
+- I have past internship experience as a User Experience Researcher
 
 - 🌱 I’m currently learning **Next.js**
 
