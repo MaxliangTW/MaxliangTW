@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Max Liang</h1>
+<h1 align="center">👋 Hi, I'm Max Liang</h1>
 <h3 align="center">A Junior Front-end developer from Taiwan</h3>
 
 - I have past internship experience as a User Experience Researcher
