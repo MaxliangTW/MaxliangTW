@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **JiuTan**
-
 - 📫 How to reach me **88110max123@gmail.com**
 
 <h2 align="center">Connect with me </h2>
