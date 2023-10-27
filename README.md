@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Max Liang</h1>
 <h3 align="center">A Junior Product Manager from Taiwan</h3>
 
-- I have past internship experience as a User Experience Researcher, Junior Front-end developer.
+- I have past internship experience as a User Experience Researcher, SEO developer.
 
 - 📫 How to reach me **88110max123@gmail.com**
 
