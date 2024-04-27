@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Max Liang</h1>
-<h3 align="center">A Junior Product Manager from Taiwan</h3>
+<h3 align="center">A Product Manager from Taiwan</h3>
 
 - I have past internship experience as a User Experience Researcher, SEO developer.
 
