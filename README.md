@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Max Liang</h1>
 <h3 align="center">A Product Manager from Taiwan</h3>
 
-- I have past internship experience as a User Experience Researcher, SEO developer.
+- I have past startup experience as a co-Founder @21days.
 
 - 📫 How to reach me **88110max123@gmail.com**
 
